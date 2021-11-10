@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    background-color: gray;
+}
+
+header{
+    background-color:lightgray;
+    padding: 15px;
+  
+}
+section{
+    color: white;
+    padding: 30px;
+}
+p{
+    margin-bottom: 150px;
+}
